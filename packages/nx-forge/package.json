@@ -1,5 +1,5 @@
 {
-  "name": "@toolsplus/nx-forge",
+  "name": "@jackgraves/nx-forge",
   "version": "0.0.0-development",
   "description": "Atlassian Forge plugin for Nx",
   "main": "src/index.js",
