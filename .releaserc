@@ -8,8 +8,7 @@
     "@semantic-release/release-notes-generator",
     ["@semantic-release/npm", {
       "pkgRoot": "dist/packages/nx-forge"
-    }],
-    "@semantic-release/github"
+    }]
   ],
   "preset": "angular"
 }
