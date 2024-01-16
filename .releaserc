@@ -1,7 +1,6 @@
 {
   "branches": [
-    "main",
-    { "name": "test-*", "prerelease": true}
+    "capable-temp-package"
   ],
   "plugins": [
     "@semantic-release/commit-analyzer",
