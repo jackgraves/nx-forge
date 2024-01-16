@@ -1,5 +1,6 @@
 {
   "branches": [
+    "main",
     "capable-temp-package"
   ],
   "plugins": [
