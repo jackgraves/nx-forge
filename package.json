@@ -8,7 +8,9 @@
     "semantic-release": "semantic-release",
     "prepare": "husky install"
   },
-  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "Atlassian",
     "Forge",
