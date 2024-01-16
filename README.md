@@ -1,4 +1,4 @@
-#  Nx Forge
+#  Nx Forge (temporary package for Nx 17 support)
 
 [![CI](https://img.shields.io/github/actions/workflow/status/toolsplus/nx-forge/ci.yml?branch=main&label=CI&style=flat&logo=github)](https://github.com/toolsplus/nx-forge/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@toolsplus/nx-forge?style=flat&logo=npm)](https://www.npmjs.com/package/@toolsplus/nx-forge)
