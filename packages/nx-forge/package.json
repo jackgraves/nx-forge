@@ -1,6 +1,6 @@
 {
   "name": "@jack-capable/nx-forge",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "description": "Atlassian Forge plugin for Nx",
   "main": "src/index.js",
   "generators": "./generators.json",
