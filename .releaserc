@@ -1,8 +1,5 @@
 {
-  "branches": [
-    "main",
-    "capable-temp-package"
-  ],
+  "branches": [ "main", "capable-temp-package" ],
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
